@@ -1,0 +1,27 @@
+table
+{
+	border-style:solid;
+	border-width:5px;
+	border-color:pink;
+}
+
+ body {
+  background-color: #980F5A;
+  color: #FF6363;
+  font-size: 30px;
+  padding: 5px;
+  border: 5px dashed #F2789F;
+  border-radius: 10px;
+}
+
+ input {
+	 background-color: linen;
+	 font-size: 20px;
+	 font-color: solid #F2789F;
+ }
+ 
+ button {
+	 background-color: linen;
+	 font-size: 20px;
+	 font-color: solid #F2789F;
+ }

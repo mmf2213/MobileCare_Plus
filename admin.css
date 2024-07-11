@@ -1,0 +1,20 @@
+ body {
+  background-color: #F2789F;
+  color: #FEE3EC;
+  font-size: 30px;
+  padding: 5px;
+  border: 5px dashed #8946A6;
+  border-radius: 10px;
+}
+
+ input {
+	 background-color: linen;
+	 font-size: 20px;
+	 color: solid #F2789F;
+ }
+ 
+ button {
+	 background-color: linen;
+	 font-size: 20px;
+	 color: solid #F2789F;
+ }
